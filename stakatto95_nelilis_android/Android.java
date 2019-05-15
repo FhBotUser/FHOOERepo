@@ -9,8 +9,9 @@ return 0;
 
 class SomeClass {
 
-	void automaticalyResolvedConflict() {
-		
+	void automaticalyResolvedConflictbyNils() {
+		println"Test";
+
 	}
 
 	int main() {
