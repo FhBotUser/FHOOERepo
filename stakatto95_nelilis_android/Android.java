@@ -10,7 +10,7 @@ return 0;
 class SomeClass {
 
 	void automaticalyResolvedConflict() {
-		
+		print("Some mega bugfix by Artsiom");
 	}
 
 	int main() {
