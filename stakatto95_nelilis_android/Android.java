@@ -11,6 +11,12 @@ return 0;
 class SomesuperClass {
 	
 	void automaticalyResolvedConflictbyNils() {
+		println"ChangesAddBySomeUserFromOurGroup";
+		println"ChangesAddBySomeUserFromOurGroup";
+		println"ChangesAddBySomeUserFromOurGroup";
+		println"ChangesAddBySomeUserFromOurGroup";
+		println"ChangesAddBySomeUserFromOurGroup";
+		println"ChangesAddBySomeUserFromOurGroup";
 		println"Test";
 		print("Some mega bugfix by Artsiom");
 	}
