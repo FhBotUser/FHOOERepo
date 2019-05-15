@@ -4,6 +4,7 @@ fsdafsadfnmsdlnfäknds
 class second{
 int main(){
 println"Test";
+print("Some mega bugfix by Artsiom in second class");
 return 0;
 }}
 
